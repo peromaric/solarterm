@@ -1,0 +1,2 @@
+# solarterm
+Projekt za kolegij
